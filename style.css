@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(233, 230, 230);
+}
+
+div {
+    width: 260px;
+    height: 0px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 150px;
+    height: 280px;
+    border-radius: 5px;
+
+
+
+    h2 {
+        color: white;
+        background-color: rgb(65, 96, 233);
+        height: 50px;
+        padding-left: 63px;
+        padding-top: 18px;
+        margin-top: 0px;
+        border-radius: 5px;
+    }
+
+    input {
+        width: 220px;
+        display: block;
+        border-radius: 20px;
+        height: 23px;
+        margin-left: 12px;
+        margin-top: 12px;
+        padding-left: 12px;
+    }
+
+    #form {
+        width: 18px;
+        height: 10px;
+        display: inline;
+
+
+    }
+
+
+    p {
+        display: inline;
+        padding-left: 0px;
+        font-size: smaller;
+    }
+
+    a {
+        text-decoration: none;
+        color: blue;
+    }
+
+    .log {
+        width: 200px;
+        display: block;
+        border-radius: 20px;
+        height: 28px;
+        margin-left: 12px;
+        margin-top: 12px;
+        padding-left: 10px;
+        margin-left: 26px;
+        background-color: blue;
+        color: white;
+
+    }
+
+    .sign {
+        display: inline;
+        padding-left: 54px;
+        font-size: 12px;
+    }
+}
